@@ -1,3 +1,46 @@
-lable{
-    color:red;
+.minhaj{
+    margin: 5px;
+    text-align: center;
+    border: 1px solid;
+    border-bottom: 50%;
+    background-color: #d4d0ec;
+}
+.form{
+    background-color:#836ab9 ;
+    margin: 60px 290px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    display: block;
+    border: none;
+    box-shadow: 0 0 15px;
+    font: 10px;
+    width: 400px;
+    height: 450px;
+    
+}
+.button{
+    border-radius: 10px;
+    width: 70%;
+    border: 0;
+    font-size: 12px;
+}
+.container{
+    width: 80%;
+}
+.naz{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3px;
+    
+}
+input{
+    border-radius: 5px;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
+.B{
+    font-size: 12px;
 }
